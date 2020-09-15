@@ -22,30 +22,31 @@ img {
     width: 525px;
 }
 div {
-    height: 150px;
+    min-height: 150px;
     padding: 25px;
 }
     #red {
     background-color: #FF0000;
     text-align: right;
-}
+    }
     #blue {
     background-color: #0000ff;
-}
+    }
     #yellow {
     background-color: #ffff00;
     text-align: right;
-}
+    }
     #yellow h2 {
     color: #000000;
-}
+    }
     #yellow p {
     color: #000000;
     text-shadow: 5px 5px 2px #c7e2c7;
-}
+    }
     #green {
     background-color: #008000;
-}
+    }
+    
 footer p {
     padding-bottom: 10px;
     padding-right: 10px;
